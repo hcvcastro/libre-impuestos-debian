@@ -1,0 +1,23 @@
+Source: libre-impuestos
+Section: office
+Priority: optional
+Maintainer: Henry Castro <hcvcastro@gmail.com>
+Uploaders: Henry Castro <hcvcastro@gmail.com>
+Homepage: http://www.softwarelibre.org.bo
+Build-Depends: cdbs (>= 0.4.41),
+               debhelper (>= 8),
+               gnome-pkg-tools (>= 0.10),
+               yelp-tools (>= 3.1.1),
+               intltool (>= 0.40.1),
+               libglib2.0-dev (>= 2.31),
+               libgtk-3-dev (>= 3.0.0),
+               libxml2-dev (>= 2.4.7)
+Standards-Version: 3.9.3
+
+Package: libre-impuestos
+Architecture: any
+Depends: ${shlibs:Depends},
+         ${misc:Depends}
+Description: Libre Impuestos
+ libre impuestos es una aplicación escritorio para el llenado
+ de formularios de Impuestos Nacionales Bolivia.
