@@ -1,10 +1,11 @@
-libre-impuestos (0.0.2-1.1) UNRELEASED; urgency=low
+libre-impuestos (0.0.3-1) UNRELEASED; urgency=low
 
-  * Added WebKit engine.
+  * Added Print/PrintPreview feature to forms
   * 
   * 
+  * 
 
- -- Henry Castro <hcastro@noblewarrior>  Wed, 25 Dec 2013 14:54:59 -0400
+ -- Henry Castro <hcastro@noblewarrior>  Fri, 07 Feb 2014 16:58:52 -0400
 
 libre-impuestos (0.0.1-1) UNRELEASED; urgency=low
 

@@ -1,13 +1,13 @@
 #!/usr/bin/make -f
 
 DEB_PACKAGE_VERSION=2
-DEB_VERSION_UPSTREAM=0.0.2
+DEB_VERSION_UPSTREAM=0.0.3
 CURDIR ?= $(realpath $(dir $(firstword $(MAKEFILE_LIST)))/..)
 
 USE_GIT_TARBALLS=y
 ifeq "$(USE_GIT_TARBALLS)" "y"
 GIT_BASEURL:=https://github.com/hcvcastro/
-lo_sources_ver=v0.0.2
+lo_sources_ver=v0.0.3
 GIT_TAG=$(lo_sources_ver)
 GIT_BRANCH=releases
 endif
