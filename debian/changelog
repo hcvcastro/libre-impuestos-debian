@@ -1,3 +1,9 @@
+libre-impuestos (0.0.4-1) UNRELEASED; urgency=low
+
+  * Added customized and extended library libre-impuestos-webkitgtk-3.0
+
+ -- Henry Castro <hcvcastro@gmail.com>  Sun, 23 Mar 2014 08:46:09 -0400
+
 libre-impuestos (0.0.3-1) UNRELEASED; urgency=low
 
   * Added Print/PrintPreview feature to forms
@@ -5,7 +11,7 @@ libre-impuestos (0.0.3-1) UNRELEASED; urgency=low
   * 
   * 
 
- -- Henry Castro <hcastro@noblewarrior>  Fri, 07 Feb 2014 16:58:52 -0400
+ -- Henry Castro <hcvcastro@gmail.com>  Fri, 07 Feb 2014 16:58:52 -0400
 
 libre-impuestos (0.0.1-1) UNRELEASED; urgency=low
 

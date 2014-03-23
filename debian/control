@@ -12,8 +12,7 @@ Build-Depends: cdbs (>= 0.4.41),
                libglib2.0-dev (>= 2.31),
                libgtk-3-dev (>= 3.0.0),
                libxml2-dev (>= 2.4.7),
-	       libsoup-gnome2.4-dev (>= 2.37.1),
-	       libwebkitgtk-3.0-dev (>= 1.7.92)
+	       liblibre-impuestos-webkitgtk-3.0-dev (>= 1.7.92)
 Standards-Version: 3.9.3
 
 Package: libre-impuestos
