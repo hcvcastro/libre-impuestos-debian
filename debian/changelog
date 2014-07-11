@@ -1,3 +1,10 @@
+libre-impuestos (0.0.5-1) UNRELEASED; urgency=low
+
+  * Fixed. gtk button now show images even theme settings is disabled.
+  * 
+
+ -- Henry Castro <hcastro@gmail.com>  Fri, 11 Jul 2014 10:10:50 -0400
+
 libre-impuestos (0.0.4-1) UNRELEASED; urgency=low
 
   * Added customized and extended library libre-impuestos-webkitgtk-3.0
